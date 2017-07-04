@@ -1,2 +1,2 @@
-# datasciencecoursera
-Course Project
+# DataScienceCoursera
+Coursera Assignment
